@@ -37,3 +37,6 @@ Power BI Desktop
 DAX and Power Query for modeling  
 Visualizations: KPIs, trend lines, pie charts, maps, scatter plots  
 Data Source: AdventureWorksDW (SQL sample dataset)
+## See the full dashborad here
+[(https://app.powerbi.com/view?r=eyJrIjoiZDZiMDJjYWEtMzgwNy00NDUxLThmZWQtZWI0ODE4ZmFmMDc5IiwidCI6ImY4YTIxM2QyLThmNmMtNDAwZC05ZTc0LTRlOGI0NzUzMTZjNiIsImMiOjh9)]
+
