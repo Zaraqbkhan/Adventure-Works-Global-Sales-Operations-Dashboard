@@ -1,4 +1,4 @@
-# Adventure Works Global Sales & Operations Dashboard
+Global Sales & Operations Dashboard
 
 This Power BI project provides a comprehensive analysis of Adventure Works’ global sales performance, profit margins, and supply chain efficiency. It combines executive-level KPIs, product profitability insights, and shipment/inventory trends to enable data-driven business decisions.
 
